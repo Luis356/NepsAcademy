@@ -1,4 +1,4 @@
-# EXERCÍCIOS DA PLATAFORMA NEPS [ACADEMY] (https://neps.academy/br/dashboard) 
+# EXERCÍCIOS DA PLATAFORMA NEPS [ACADEMY](https://neps.academy/br/dashboard) 
 
 ### EXERCÍCIOS RESOLVIDOS ATÉ O MOMENTO: 
 
