@@ -2,15 +2,15 @@
 
 ### EXERCÍCIOS RESOLVIDOS ATÉ O MOMENTO: 
 
-- Olá Neps Academy 
-- Soma Fácil
-- Média Inteira
-- Área do Quadrado
+- *Olá Neps Academy* 
+- *Soma Fácil*
+- *Média Inteira*
+- *Área do Quadrado*
 - Fliper
-- Positivo, negativo ou Nulo
+- *Positivo, negativo ou Nulo*
 - Bondinho
 - Par ou Ímpar 
-- Olá CodCad!
+- *Olá CodCad!*
 - Aprovado ou Reprovado
 - Soma
 - Gangorra
