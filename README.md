@@ -15,3 +15,5 @@
 - Soma
 - Gangorra
 - Premio do Milhão
+
+*Nem todos exercícios estão disponíveis neste momento*
