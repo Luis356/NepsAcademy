@@ -13,5 +13,4 @@ Nesse problema especial você não precisa ler nenhuma informação como entrada
 A saída do seu programa deve ser apenas a frase "Ola Neps Academy!" (sem as aspas). Não se esqueça de adicionar o sinal de exclamação no final.
 
 ### | EXEMPLO DE ENTRADA | EXEMPLO DE SAIDA |
-| ----------- | ----------- |
 | ***SEM ENTRADA*** | **Ola Neps Academy!** |
