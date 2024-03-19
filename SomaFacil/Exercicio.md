@@ -10,12 +10,3 @@ A saída consiste de uma linha contendo o resultado da expressão *(A+B)*.
 
 ## Restrições
 Os inteiros fornecidos não terão valor absoluto maior que 1000.
-
-| EXEMPLOS DE ENTRADA | EXEMPLOS DE SAIDA |
-| ----------- | ----------- |
-| 2 | 5 |
-| 3 |   |
-| ----------- | ----------- |
-| -2 | 1 |
-| 3  |   |
-

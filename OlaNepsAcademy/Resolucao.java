@@ -1,4 +1,4 @@
-package OlaNepsAcad;
+package OlaNepsAcademy;
 
 public class Resolucao {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package AprovOuReprov;
+package AprovadoOuReprovado;
 
 import java.util.Scanner;
 
