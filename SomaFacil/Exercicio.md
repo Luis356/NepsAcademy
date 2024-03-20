@@ -1,4 +1,4 @@
-# Soma Fácil
+# [Soma Fácil](https://neps.academy/br/exercise/134)
 
 Faça um programa para ler dois valores inteiros *A* e *B* e imprima o resultado da expressão *(A+B)*.
 
@@ -7,6 +7,3 @@ A entrada consiste de duas linhas. A primeira linha contém o inteiro *A* e a se
 
 ## Saída
 A saída consiste de uma linha contendo o resultado da expressão *(A+B)*.
-
-## Restrições
-Os inteiros fornecidos não terão valor absoluto maior que 1000.
