@@ -1,5 +1,3 @@
-package AprovadoOuReprovado;
-
 import java.util.Scanner;
 
 public class Resolucao {
